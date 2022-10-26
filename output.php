@@ -11,10 +11,8 @@
 </head>
 <body>
   <?php
-    $single_string = 'hello';
-    $simple_array = ['one', 'two'];
-    echo $single_string; //for anything except array
-    var_dump($simple_array);
+  $iajsd = 'hello';
+  echo $iajsd;
   ?>
 </body>
 </html>
